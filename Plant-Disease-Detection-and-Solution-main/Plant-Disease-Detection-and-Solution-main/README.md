@@ -182,16 +182,8 @@ Contributions are what make the open source community such an amazing place to b
 * Please read [CONTRIBUTING][contributing], for details on our code of conduct, and the process for submitting pull requests to us.
 
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See [***`LICENSE`***][license-url] for more information.
 
-<!-- CONTACT -->
-## Contact
-
-* [*Twitter*](https://twitter.com/devil_2708)
-* [*Gmail*](sahilthakur376@gmail.com)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
